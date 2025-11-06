@@ -204,6 +204,5 @@ void client() {
 
 ## OUTPUT
 ![NamedOutput](imgs/NamedOutput.png)
-
 # RESULT:
 The program is executed successfully.
